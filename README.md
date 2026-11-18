@@ -27,9 +27,4 @@ Sistema educativo de análise heurística de links e mensagens suspeitas, desenv
 - Exibição da pontuação, classificação, indicadores e recomendação.
 - O backend analisa o texto da URL e não visita o endereço.
 
-## Como executar
 
-Entre na pasta backend:
-
-```bash
-cd backend
